@@ -120,16 +120,4 @@ This will:
 - Deploy to Hugging Face Spaces or Streamlit Cloud
 - Extend classification for other skin conditions
 
----
 
-## 📄 License
-
-MIT License — free to use for educational and research purposes.
-
----
-
-## 👤 Author
-
-**Nivethini Senthilselvan**  
-_M.Sc Applied Machine Intelligence_  
-Northeastern University
